@@ -7,9 +7,9 @@
     "jupyterlab",
     "jupyterlab-extension"
   ],
-  "homepage": "https://github.com/my_name/jupyterlab_apod",
+  "homepage": "https://github.com/ajnsit/jupyterlab_apod",
   "bugs": {
-    "url": "https://github.com/my_name/jupyterlab_apod/issues"
+    "url": "https://github.com/ajnsit/jupyterlab_apod/issues"
   },
   "license": "BSD-3-Clause",
   "author": "Your Name",
@@ -22,7 +22,7 @@
   "style": "style/index.css",
   "repository": {
     "type": "git",
-    "url": "https://github.com/my_name/jupyterlab_apod.git"
+    "url": "https://github.com/ajnsit/jupyterlab_apod.git"
   },
   "scripts": {
     "build": "tsc",
